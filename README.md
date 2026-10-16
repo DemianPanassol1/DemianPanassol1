@@ -1,11 +1,10 @@
- 
 <div align="center">
 
 # Demian Panassol
 
 ### Full Stack & DevOps Engineer
 
-**Building scalable applications, designing reliable architectures, and connecting software with infrastructure.**
+**From application development to architecture, infrastructure, and everything in between.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://demianpanassol.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demian-panassol/)
@@ -22,26 +21,26 @@
 
 ### Sobre mim
 
-Sou desenvolvedor **Full Stack**, com experiência na construção de aplicações web, APIs e soluções corporativas, atuando desde a interface até a arquitetura de backend, banco de dados e infraestrutura.
+Sou desenvolvedor **Full Stack** e trabalho com aplicações web, APIs e sistemas corporativos. Minha experiência vai do frontend e backend até bancos de dados, arquitetura e infraestrutura.
 
-Meu trabalho envolve transformar requisitos de negócio em sistemas bem estruturados, considerando não apenas a implementação, mas também **manutenibilidade, segurança, escalabilidade e operação em produção**.
+Gosto de entender como as coisas funcionam além do código. Não apenas desenvolver uma funcionalidade, mas pensar em como ela se encaixa no restante do sistema, como será mantida e o que acontece quando precisa funcionar em produção.
 
-Atuo principalmente com **TypeScript, React, Next.js, Node.js, NestJS e C#/.NET**, além de infraestrutura Linux, containers, pipelines de CI/CD e bancos de dados relacionais.
+Trabalho principalmente com **TypeScript, React, Next.js, Node.js, NestJS e C#/.NET**. Também atuo com Linux, Docker, Kubernetes, CI/CD e bancos de dados relacionais, além de tecnologias e serviços de cloud.
 
-Minha abordagem combina desenvolvimento de software com uma visão mais ampla de engenharia: entender como os componentes se relacionam, por que determinadas decisões arquiteturais fazem sentido e quais são seus trade-offs.
+Tenho bastante interesse em arquitetura de software, sistemas distribuídos e DevOps. Procuro entender os motivos por trás das decisões técnicas, conhecer diferentes abordagens e saber quando cada uma realmente faz sentido.
 
 ### Áreas de atuação
 
-- **Desenvolvimento Full Stack** — aplicações web modernas, interfaces, APIs REST e integrações entre sistemas.
-- **Backend e arquitetura** — modularidade, autenticação, autorização, modelagem de dados e arquitetura de serviços.
-- **Sistemas distribuídos** — comunicação entre serviços, mensageria, processamento assíncrono e consistência de dados.
-- **DevOps e infraestrutura** — Linux, Nginx, Docker, Kubernetes, CI/CD e operação de aplicações.
-- **Cloud Engineering** — arquitetura e implantação de soluções utilizando Azure e AWS.
-- **Qualidade de software** — testes, observabilidade, segurança e práticas de engenharia sustentável.
+- **Desenvolvimento Full Stack** - aplicações web, interfaces, APIs REST e integrações.
+- **Backend e arquitetura** - organização de aplicações, autenticação, autorização, modelagem de dados e serviços.
+- **Sistemas distribuídos** - comunicação entre serviços, mensageria, processamento assíncrono e consistência de dados.
+- **DevOps e infraestrutura** - Linux, Nginx, Docker, Kubernetes, CI/CD e ambientes de produção.
+- **Cloud Engineering** - desenvolvimento, arquitetura e deploy de aplicações na Azure e AWS.
+- **Qualidade de software** - testes, segurança, observabilidade e manutenção de código.
 
 ### Arquitetura e engenharia
 
-Além de frameworks e ferramentas, valorizo os princípios que sustentam sistemas robustos.
+Frameworks e ferramentas são importantes, mas também gosto de estudar os conceitos por trás deles e entender como aplicá-los em situações reais.
 
 | Área | Conhecimentos |
 |---|---|
@@ -61,7 +60,7 @@ Além de frameworks e ferramentas, valorizo os princípios que sustentam sistema
 
 **[VPS Docker Runbook](https://github.com/DemianPanassol1/vps_docker_runbook)**
 
-Documentação prática para provisionamento, segurança, deploy e operação de aplicações em servidores Linux.
+Um guia prático que reúne configurações e procedimentos para preparar, proteger e administrar servidores Linux, além de realizar o deploy de aplicações.
 
 `Linux` · `Docker` · `Nginx` · `PostgreSQL` · `CI/CD`
 
@@ -70,7 +69,7 @@ Documentação prática para provisionamento, segurança, deploy e operação de
 
 **[Explorar repositórios](https://github.com/DemianPanassol1?tab=repositories)**
 
-Projetos, experimentos e implementações envolvendo desenvolvimento Full Stack, backend, arquitetura e infraestrutura.
+Outros projetos, experimentos e implementações que desenvolvi envolvendo frontend, backend, arquitetura e infraestrutura.
 
 `Full Stack` · `Backend` · `DevOps`
 
@@ -78,19 +77,19 @@ Projetos, experimentos e implementações envolvendo desenvolvimento Full Stack,
 </tr>
 </table>
 
-*Parte da minha experiência profissional envolve sistemas corporativos e repositórios privados. Os projetos públicos representam uma seleção do trabalho e dos estudos que posso compartilhar.*
+*Boa parte do meu trabalho envolve sistemas corporativos e repositórios privados. Aqui no GitHub compartilho alguns projetos, experimentos e materiais que posso disponibilizar publicamente.*
 
-### Filosofia de engenharia
+### Como gosto de trabalhar
 
-**Entender antes de implementar.** Compreender o problema, seus requisitos e suas restrições antes de escolher a solução.
+**Entender antes de implementar.** Prefiro compreender o problema e suas limitações antes de sair escrevendo código.
 
-**Projetar para manutenção.** Priorizar clareza, modularidade e evolução sustentável do código.
+**Manter as coisas organizadas.** Código claro, responsabilidades bem definidas e uma estrutura que não complique a manutenção.
 
-**Automatizar o que é repetível.** Reduzir processos manuais e tornar entregas mais previsíveis.
+**Automatizar quando faz sentido.** Se uma tarefa é repetitiva e pode ser automatizada com segurança, dificilmente vale a pena continuar fazendo tudo manualmente.
 
-**Pensar além da aplicação.** Considerar segurança, infraestrutura, desempenho e operação desde o desenvolvimento.
+**Olhar além do código.** Uma aplicação não termina quando funciona na minha máquina. Infraestrutura, segurança, desempenho e operação também fazem parte do trabalho.
 
-**Decidir com base em trade-offs.** Não existe arquitetura universal: decisões técnicas precisam fazer sentido para o contexto.
+**Evitar soluções por moda.** Nem todo sistema precisa de microsserviços, Kubernetes ou uma arquitetura complexa. Prefiro escolher as ferramentas de acordo com o problema.
 
 ---
 
@@ -98,26 +97,26 @@ Projetos, experimentos e implementações envolvendo desenvolvimento Full Stack,
 
 ### About me
 
-I'm a **Full Stack Developer** with experience building web applications, APIs, and enterprise software solutions, working across frontend development, backend architecture, databases, and infrastructure.
+I'm a **Full Stack Developer** working with web applications, APIs, and enterprise systems. My experience covers frontend and backend development, databases, software architecture, and infrastructure.
 
-My work focuses on translating business requirements into well-structured systems, considering not only implementation but also **maintainability, security, scalability, and production operations**.
+I like understanding how things work beyond the code itself. It's not just about building a feature, but also figuring out how it fits into the rest of the system, how it will be maintained, and what it takes to keep it running in production.
 
-I primarily work with **TypeScript, React, Next.js, Node.js, NestJS, and C#/.NET**, along with Linux infrastructure, containers, CI/CD pipelines, and relational databases.
+I mainly work with **TypeScript, React, Next.js, Node.js, NestJS, and C#/.NET**. I also work with Linux, Docker, Kubernetes, CI/CD, relational databases, and cloud technologies.
 
-I approach software development with a broader engineering mindset: understanding how components interact, why architectural decisions make sense, and the trade-offs behind them.
+I'm particularly interested in software architecture, distributed systems, and DevOps. I enjoy exploring different technical approaches, understanding the reasoning behind them, and figuring out when each one makes sense.
 
-### Areas of expertise
+### Areas I work with
 
-- **Full Stack Development** — modern web applications, user interfaces, REST APIs, and system integrations.
-- **Backend & Architecture** — modular design, authentication, authorization, data modeling, and service architecture.
-- **Distributed Systems** — inter-service communication, messaging, asynchronous processing, and data consistency.
-- **DevOps & Infrastructure** — Linux, Nginx, Docker, Kubernetes, CI/CD, and application operations.
-- **Cloud Engineering** — designing and deploying solutions using Azure and AWS.
-- **Software Quality** — testing, observability, security, and sustainable engineering practices.
+- **Full Stack Development** - web applications, user interfaces, REST APIs, and integrations.
+- **Backend & Architecture** - application structure, authentication, authorization, data modeling, and services.
+- **Distributed Systems** - service communication, messaging, asynchronous processing, and data consistency.
+- **DevOps & Infrastructure** - Linux, Nginx, Docker, Kubernetes, CI/CD, and production environments.
+- **Cloud Engineering** - application development, architecture, and deployment on Azure and AWS.
+- **Software Quality** - testing, security, observability, and maintainable code.
 
 ### Architecture & engineering
 
-Beyond frameworks and tools, I value the principles behind reliable and maintainable systems.
+Frameworks and tools matter, but I also enjoy learning the concepts behind them and understanding how to apply them to real-world problems.
 
 | Area | Topics |
 |---|---|
@@ -137,7 +136,7 @@ Beyond frameworks and tools, I value the principles behind reliable and maintain
 
 **[VPS Docker Runbook](https://github.com/DemianPanassol1/vps_docker_runbook)**
 
-Practical documentation covering Linux server provisioning, security, deployment, and application operations.
+A practical guide covering Linux server setup, security, administration, and application deployment.
 
 `Linux` · `Docker` · `Nginx` · `PostgreSQL` · `CI/CD`
 
@@ -146,7 +145,7 @@ Practical documentation covering Linux server provisioning, security, deployment
 
 **[Explore my repositories](https://github.com/DemianPanassol1?tab=repositories)**
 
-Projects, experiments, and implementations involving Full Stack development, backend engineering, software architecture, and infrastructure.
+Other projects, experiments, and implementations I've worked on involving frontend, backend, software architecture, and infrastructure.
 
 `Full Stack` · `Backend` · `DevOps`
 
@@ -154,19 +153,19 @@ Projects, experiments, and implementations involving Full Stack development, bac
 </tr>
 </table>
 
-*Part of my professional experience involves enterprise systems and private repositories. My public projects represent a selection of the work and technical explorations I can share.*
+*Much of my professional work involves enterprise systems and private repositories. Here on GitHub, I share some of the projects, experiments, and technical resources I can make publicly available.*
 
-### Engineering philosophy
+### How I approach engineering
 
-**Understand before implementing.** Explore the problem, its requirements, and constraints before choosing a solution.
+**Understand before implementing.** I prefer understanding the problem and its constraints before jumping into code.
 
-**Design for maintainability.** Favor clarity, modularity, and sustainable code evolution.
+**Keep things organized.** Clear code, well-defined responsibilities, and a structure that doesn't make maintenance harder than it needs to be.
 
-**Automate what is repeatable.** Reduce manual processes and make software delivery more predictable.
+**Automate when it makes sense.** If something is repetitive and can be safely automated, there's usually no reason to keep doing it manually.
 
-**Think beyond the application.** Consider security, infrastructure, performance, and production operations throughout development.
+**Look beyond the code.** An application isn't finished just because it works on my machine. Infrastructure, security, performance, and operations matter too.
 
-**Make trade-off-driven decisions.** There is no universal architecture. Technical choices should fit the problem and its context.
+**Don't follow trends blindly.** Not every system needs microservices, Kubernetes, or a complex architecture. I'd rather choose tools based on the actual problem.
 
 ---
 
@@ -226,12 +225,12 @@ Projects, experiments, and implementations involving Full Stack development, bac
 
 ### Let's connect · Vamos conversar
 
-Desenvolvimento de software, arquitetura, sistemas distribuídos, infraestrutura e desafios reais de engenharia.
+Desenvolvimento de software, arquitetura, sistemas distribuídos e infraestrutura são alguns dos assuntos que gosto de discutir.
 
-Software development, architecture, distributed systems, infrastructure, and real-world engineering challenges.
+Software development, architecture, distributed systems, and infrastructure are some of the topics I enjoy discussing.
 
 **[LinkedIn](https://www.linkedin.com/in/demian-panassol/) · [Portfolio](https://demianpanassol.com) · [Email](mailto:demianpanassol01@gmail.com)**
 
-<sub>Based in Brazil · Building software with purpose and engineering with context.</sub>
+<sub>Based in Brazil · Full Stack Development, Architecture & DevOps</sub>
 
 </div>
